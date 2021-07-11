@@ -9,7 +9,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    var questions = ['What is favourite color?', 'What is favourite animal?'];
+    var questions = [
+      'What is your favourite color?',
+      'What is your favourite animal?'
+    ];
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(title: Text('Welcome to quiz app!')),
