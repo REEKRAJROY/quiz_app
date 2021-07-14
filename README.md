@@ -1,3 +1,4 @@
+![Record_2021-07-14-11-56-37_3073bfe3f215989e735ea0178fd89519](https://user-images.githubusercontent.com/55712612/125574183-a3a7c70b-8c30-495b-8a5b-f1af6fa52499.gif)
 # quiz_app
 
 A new Flutter project.
